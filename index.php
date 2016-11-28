@@ -1,3 +1,3 @@
 <?php
 
-echo 'Test package.';
+echo 'Test package for composer.';
