@@ -1,0 +1,7 @@
+{
+    "name": "damir-serfezi/composer-dependency-test",
+    "description": "Testing composer package.",
+    "require": {
+        
+    }
+}
